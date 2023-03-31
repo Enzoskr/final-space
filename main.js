@@ -42,7 +42,7 @@ const renderNewPj = (character) => {
           </div>
         </div>
       </div>
-    //    <button class="boton-actualizar" onclick="location.reload()">Actualizar Personaje</button>
+  <button class="boton-actualizar" onclick="location.reload()">Actualizar Personaje</button>
 `;
 };
 const getAndRenderPj = async () => {
